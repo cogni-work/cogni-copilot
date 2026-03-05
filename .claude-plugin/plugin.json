@@ -1,0 +1,9 @@
+{
+  "name": "cogni-copilot",
+  "version": "0.1.0",
+  "description": "Port Claude Code plugins to Microsoft Copilot Studio — generates agent configs, topic YAML, flow JSON, connector definitions, and step-by-step GUI instructions",
+  "author": {
+    "name": "Stephan de Haas"
+  },
+  "keywords": ["copilot-studio", "migration", "porting", "microsoft", "power-platform"]
+}
